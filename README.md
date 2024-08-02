@@ -1,9 +1,9 @@
-# generate a README file
+# generate a REAME file
 
 ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
 ## Description
-create a README file by using node and command line
+create a README file using node and command line
 
 ## Table of Contents
 - [Installation](#installation)
