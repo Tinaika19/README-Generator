@@ -30,7 +30,7 @@ NA
 
 ## Questions
 If you have any questions, you can reach me at [tinaika.pereira@gmail.com](tinaika.pereira@gmail.com).
-You can also find meon GitHub at [tinaika19](https://github.com/tinaika19).
+You can also find me on GitHub at [tinaika19](https://github.com/tinaika19).
 
 # Link to the walkthrough video
 
